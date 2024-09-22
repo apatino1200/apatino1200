@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apatino1200
 - 👀 I’m interested in coding, working out, and learning languages
-- 🌱 I’m currently working on a freeCodeCamp certification on responsive web pages
+- 🌱 I’m currently working on a bachelor's degree in software engineering
 - 💞️ I’m looking to connect with other coders for studying help and like-minded friends
 - 📫 I can be reached through discord (@apatino1200) or snapchat (@apati12)
 
